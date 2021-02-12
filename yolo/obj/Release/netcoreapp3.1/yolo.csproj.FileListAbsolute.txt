@@ -1,0 +1,15 @@
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/yolo.deps.json
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/yolo.runtimeconfig.json
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/yolo.runtimeconfig.dev.json
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/yolo.dll
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/yolo.pdb
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/anuragpatidar/Desktop/yolo/yolo/bin/Release/netcoreapp3.1/WebDriver.dll
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.csprojAssemblyReference.cache
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.AssemblyInfoInputs.cache
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.AssemblyInfo.cs
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.csproj.CoreCompileInputs.cache
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.csproj.CopyComplete
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.dll
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.pdb
+/Users/anuragpatidar/Desktop/yolo/yolo/obj/Release/netcoreapp3.1/yolo.genruntimeconfig.cache
