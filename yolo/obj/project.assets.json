@@ -5872,6 +5872,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.8.3",
+      "Microsoft.TestPlatform.TestHost >= 16.8.3",
       "Selenium.WebDriver >= 3.141.0",
       "Selenium.WebDriver.ChromeDriver >= 88.0.4324.9600"
     ]
@@ -5912,6 +5913,10 @@
       "netcoreapp3.1": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[16.8.3, )"
+          },
+          "Microsoft.TestPlatform.TestHost": {
             "target": "Package",
             "version": "[16.8.3, )"
           },
